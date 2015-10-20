@@ -1,2 +1,4 @@
 f = open('data','r' )
-print f
+print f.read() 
+
+
